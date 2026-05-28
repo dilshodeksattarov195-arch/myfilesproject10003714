@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "databasecalculate",
+        "uuid": 26618238,
+        "checksum": "pz5li"
+    },
+    "settings": {
+        "retries": 1,
+        "enabled": false,
+        "mode": "staging"
+    }
+}
